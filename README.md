@@ -1,4 +1,4 @@
-## 📅 Daily Update - 05 August 2026
+## 📅 Daily Update - 05 october 2026
 
 ### 🚧 Challenges
 - On leave from college today due to device issue.
@@ -7,7 +7,7 @@
 
 ### ✅ Achievement
 - **Successfully completed & certified by Softpro India, Aliganj Lucknow.**
-- **Certificate Date:** 05/08/2026
+- **Certificate Date:** 05/10/2026
 - **Workshop Topic:** [AI / Programming Workshop - Organized at FGP Raebareli under Industry-Academia MoU]
 
 ### 🔗 Connect with Me
